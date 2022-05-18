@@ -1,0 +1,265 @@
+.how-it-work-text{
+width: 511px;
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 56px;
+/* text-align: center; */
+color: #000000;
+margin-left: 25px;
+}
+
+@media screen and (min-width: 768px) {
+    .how-it-work-text{
+        margin-left: 270px;
+    }
+
+    .girl-phone{
+        float: left;
+    }
+
+    .setup-text{
+        float: right;
+    }
+
+    .once-text{
+        float: right;
+    }
+    
+    .two{
+        display: none;
+    }
+
+     .print{
+        float: right;
+        /* padding-top: 50px; */
+    }
+
+    .review-text{
+        float: left;
+        padding-top: 55px;
+        padding-left: 90px;
+    }
+
+    .we-get{
+        float: left;
+        padding-top: 5px;
+        padding-left: 90px;
+    } 
+
+    .try-text{
+    padding-left:340px;   
+    } 
+
+     .your-box{
+        padding-left:340px;
+    }
+
+    .Try-it-container {
+        min-width: -webkit-fill-available;
+    }
+  }
+
+  @media screen and (min-width: 891px) {
+    .how-it-work-text{
+        margin-left: 270px;
+    }
+
+    .girl-phone{
+        float: left;
+    }
+
+    .setup-text{
+        float: right;
+    }
+
+    .once-text{
+        float: right;
+    }
+    
+    .two{
+        display: none;
+    }
+
+     .print{
+    float: right;
+    padding-top: 50px;
+    padding-left: 50px;
+    }
+
+    .review-text{
+        float: left;
+        padding-top: 55px;
+        padding-left: 90px;
+    }
+
+    .we-get{
+        float: left;
+        padding-top: 5px;
+        padding-left: 90px;
+    } 
+
+    .try-text{
+    padding-left:340px;   
+    } 
+
+     .your-box{
+        padding-left:340px;
+    }
+
+    .Try-it-container {
+    min-width: -webkit-fill-available;
+    }
+  }
+
+  @media screen and (min-width: 915px) {
+      .once-text{
+        margin-top: 22px;
+        margin-right: 36px
+      }
+
+      .setup-text{
+          margin-right: 3px;
+      }
+  }
+
+  @media screen and (min-width: 992px) {
+    .once-text{
+        margin-top: 115px
+      }
+    .setup-text{
+        margin-right: 11px;
+    }  
+  }
+
+
+
+.girl-phone{
+    /* width: 324px;
+    height: 485px; */
+    height: 280px;
+    width: 280px;
+    margin-left: 20px;
+}
+
+.setup-text{
+width: 306px;
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+letter-spacing: -0.01em;
+color: #000000;
+margin-left: 20px;
+margin-top: 15px;
+}
+
+.once-text{
+width: 277px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-left: 15px;
+}
+
+.two{
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 400;
+font-size: 120px;
+line-height: 56px;
+color: #EF8094;
+margin-top: 70px;
+margin-left: 20px;
+}
+
+.print{
+    height: 280px;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 55px;
+}
+
+.review-text{
+width: 295px;
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+color: #000000;
+margin-left: 45px;
+margin-top: 15px;
+}
+
+.we-get{
+width: 294px;
+margin-top: 5px;
+margin-left: 15px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0.01em;
+color: #000000;
+}
+
+.matte-logo{
+    height: 280px;
+    width: 280px;
+    margin-left: 20px;
+    margin-top: 55px;
+}
+
+.try-text{
+width: 270px;
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 44px;
+color: #000000;
+margin-left: 35px;
+}
+
+.your-box{
+width: 281px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-top: 5px;
+margin-left: 15px;
+}
+
+.Try-it-container{
+width: 284px;
+height: 39px;
+background: #FFFFFF;
+border: 4px solid #EF8094;
+border-radius: 300px;
+margin-top: 55px;
+margin-left: 10px;
+}
+
+.Try-it-text{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: 0.12em;
+color: #000000;
+margin-top: 8px;
+}

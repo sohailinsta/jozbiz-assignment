@@ -1,0 +1,141 @@
+.pick-container{
+    width: 374px;
+}
+
+.pick-text{
+margin-top: 55px;
+margin-left: 70px;
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 50px;
+color: #000000;
+}
+
+@media screen and (min-width: 768px) {
+    
+.pick-text{
+    min-width: 800px;
+    margin-left: 300px;
+    }
+.monthly-box-flex{
+    display: flex;
+    min-width: 700px;
+    margin-left: 80px;
+}    
+.monthly-plan{
+    margin-top: 30px;
+}
+
+.plan-text{
+    min-width: 500px;
+    font-size: 22px;
+    margin-top: 25px;
+    padding-left: 120px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+    .pick-text{
+        margin-left: 370px;
+        font-size: 38px;
+    }
+
+     .monthly-plan{
+        min-width: 300px;
+        min-height: 150px;
+    }
+
+    .monthly-plan-two{
+        min-width: 300px;
+        min-height: 150px;
+    }
+
+    .monthly-text{
+        padding-top: 25px;
+    }
+
+    .find-your-box{
+        min-width: 190px;
+        margin-left: 200px;
+    }
+
+    .plan-text{
+        padding-left: 230px;        
+    }
+  }
+
+.monthly-plan{
+width: 230.33px; 
+height: 110px;
+border: 4px solid #C4C4C4;
+border-radius: 6px;
+margin-left: 40px;
+}
+
+.monthly-plan-two{
+width: 230.33px;
+height: 110px;
+border: 4px solid #C4C4C4;
+border-radius: 6px;
+margin-left: 40px;
+margin-top: 30px;
+}
+
+.monthly-text{
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+/* line-height: 41px; */
+text-align: center;
+color: #000000;
+margin-top: 5px;
+}
+
+.monthly-price{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+/* line-height: 39px; */
+text-align: center;
+letter-spacing: 0.12em;
+color: #000000;
+margin-top: 3px;
+}
+
+.find-your-box{
+width: 120px;
+height: 30px;
+background: #EF8094;
+border: 4px solid #EF8094;
+border-radius: 100px;
+margin-top: 12px;
+margin-left: 50px;
+}
+
+.find-text{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    /* line-height: 18px; */
+    text-align: center;
+    letter-spacing: 0.12em;
+    color: #FFFFFF;
+    margin-top: 10px;
+    }
+
+    .plan-text{
+width: 316px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-left: 35px;
+}

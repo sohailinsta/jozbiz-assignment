@@ -1,0 +1,152 @@
+.social-text{
+width: 375px;
+font-family: 'DM Serif Text';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 56px;
+/* text-align: center; */
+color: #000000;
+margin-left: 45px;
+}
+
+@media screen and (min-width: 768px) {
+    .social-text{
+        margin-left: 289px;
+    }
+
+    .social-post-flex{
+        display: flex;
+    }
+
+    .makeup-margin{
+        margin-left: 89px;
+    }
+
+    .subscribe-box{
+        min-width: 778px;
+    }
+
+    .follow-us-text{
+        padding-left: 240px;
+    }
+  }
+
+  @media screen and (min-width: 992px) {
+    .social-text{
+        margin-left: 376px;
+    }
+
+    .social-post-flex-large{
+        display: flex;
+    }
+
+    .Try-it-container {
+        min-width: 1413px;
+    }
+
+    .subscribe-box{
+        min-width: 1413px;
+    }
+
+    .follow-us-text{
+        padding-left: 551px;
+    }
+  }
+
+.social-post{
+height: 250px;
+width: 280px;
+margin-left: 12px;
+}
+
+.rock-text{
+width: 300px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-left: 12px;
+}
+
+.makeup-post{
+height: 250px;
+width: 280px;
+margin-left: 12px;
+}
+
+.find-perfect-text{
+width: 312px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-left: 12px;
+}
+
+.makeup-post-two{
+height: 250px;
+width: 280px;
+margin-left: 12px;    
+}
+
+.the-eye{
+width: 300px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-left: 12px;   
+}
+
+.makeup-post-three{
+height: 250px;
+width: 280px;
+margin-left: 12px;    
+}
+
+.the-pop-tips{
+width: 300px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+letter-spacing: 0.01em;
+color: #000000;
+margin-left: 12px;
+}
+
+.subscribe-box{
+width: 250px;
+height: 30px;
+background: #EF8094;
+border: 4px solid #EF8094;
+border-radius: 300px;
+margin-left: 15px;
+}
+
+.follow-us-text{
+ width: 400px;
+/* height: 21px; */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+/* text-align: center; */
+letter-spacing: 0.12em;
+color: #FFFFFF;
+margin-top: 5px;
+margin-left: 5px;
+
+}

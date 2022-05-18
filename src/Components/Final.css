@@ -1,0 +1,95 @@
+.Terms-text{
+width: 60px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.12em;
+color: #000000;
+margin-top: 30px;
+margin-left: 10px;
+}
+
+@media screen and (min-width: 768px) {
+.term-flex{
+    display: flex;
+    margin-left: 81px;
+    }
+
+.privacy-policy{
+    padding-top: 23px;
+}    
+
+.quest{
+    min-width: 549px;
+    padding-left: 81px;
+}
+  }
+
+.privacy-policy{
+margin-top: 8px;
+margin-left: 10px;
+width: 125px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: 0.12em;
+color: #000000;
+}
+
+.quest{
+width: 274px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 0.12em;
+color: #000000;
+margin-left: 10px;
+}
+
+@media screen and (min-width: 992px) {
+    .term-flex{
+        display: none;
+    }
+
+    .quest{
+    min-width: 1056px;
+    font-size: revert;
+    }
+
+    .quest-privacy-two-flex{
+        display: flex;
+    }
+
+    .term-flex-two{
+        display: flex;
+        margin-top: 15px;
+    }
+
+    .Terms-text-two{
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 18px;
+        letter-spacing: 0.12em;
+        color: #000000;
+        }
+
+    .privacy-policy-two{
+        min-width: 120px;
+        margin-left: 40px;
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 18px;
+        letter-spacing: 0.12em;
+        color: #000000;
+    }   
+  }

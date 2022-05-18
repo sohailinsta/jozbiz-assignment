@@ -1,0 +1,81 @@
+.logo-upbox-flex{
+    display: flex;
+}
+
+.upbox-text-two-double{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+/* line-height: 36px; */
+letter-spacing: 0.28em;
+color: #000000;
+}
+
+@media screen and (min-width: 768px) {
+    .instagram-facebook-logo{
+        width: 169px;
+        height: 29px;
+        margin-top: 36px;
+        margin-left: 227px;
+    }
+
+    .upbox-main-heading{
+        margin-left: 95px;
+    }
+
+    .product-main-heading{
+        margin-left: 139px;
+    }
+
+    .follow-us-main-heading{
+        margin-left: 95px;
+    }
+
+    .help-main-heading{
+        margin-left: 139px;
+    }
+
+  }
+
+  @media screen and (min-width: 992px) {
+    .instagram-facebook-logo{
+        margin-left: 655px;
+    }
+    .upbox-find-us-all-flex{
+        display: flex;
+    }
+    .bag{
+        font-weight: 500;
+        font-size: 15px;
+    }
+  }
+
+.upbox-heading{
+width: 163px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+letter-spacing: 0.12em;
+color: #000000;
+margin-left: 12px;
+}
+
+.bag{
+width: 163px;
+font-family: 'DM Sans';
+font-style: normal;
+/* font-weight: 400; */
+/* font-size: 13px; */
+line-height: 16px;
+letter-spacing: 0.12em;
+color: #000000;
+margin-left: 10px;
+}
+
+.footer-upbox{
+    display: flex;
+}
+
